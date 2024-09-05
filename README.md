@@ -7,5 +7,5 @@
 - 😄 Pronouns: I'm a 🥐(he/him)
 - ⚡Fun fact: I play games on my phone and computer all the time. Please don't hesitate to phone me to play from anywhere.
 <div> 
-  <a href ="[https://beacons.ai/pedroca773](https://beacons.ai/pedroca773/mediakit)">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 </div>
