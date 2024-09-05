@@ -6,3 +6,6 @@
 - 📫You can contact me via email, this Github page, or via phone at (15) 99152-8426.
 - 😄 Pronouns: I'm a 🥐(he/him)
 - ⚡Fun fact: I play games on my phone and computer all the time. Please don't hesitate to phone me to play from anywhere.
+<div> 
+  <a href="https://beacons.ai/pedroca773">
+</div>
