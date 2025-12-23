@@ -5,7 +5,7 @@
 - 💬 Any questions you may have, feel free to ask.
 - 📫You can contact me via email, this Github page, or via phone at (15) 99152-8426.
 -  Pronouns: He/him
-- ⚡Fun fact: I play games on my phone and computer all the time. Please don't hesitate to phone me to play from anywhere.
+
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
   
